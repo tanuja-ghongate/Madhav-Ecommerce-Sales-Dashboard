@@ -43,6 +43,9 @@ The dataset includes:
 - Which payment mode is most preferred by customers?
 - Who are the top contributing customers?
 
-Screenshots
+# Feedback and collaboration
+Your feedback is welcome! If you'd like to collaborateon similar projector discuss data analysis opportunities, feel free to reach out.
+
+# Screenshots
 Show what the dashboard lool like.
 Example: https://github.com/tanuja-ghongate/Madhav-Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Image.png 
