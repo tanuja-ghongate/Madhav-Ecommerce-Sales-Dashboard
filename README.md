@@ -21,7 +21,7 @@ The dashboard is designed with interactive visuals and slicers, allowing users t
 📂 Data Source
 The dataset includes:
 - Order details
-   <a href "https://github.com/tanuja-ghongate/Madhav-Ecommerce-Sales-Dashboard/blob/main/Details%20(1)....csv"</a>
+   "https://github.com/tanuja-ghongate/Madhav-Ecommerce-Sales-Dashboard/blob/main/Details%20(1)....csv"
 - Sales amount
 - Quantity
 - Profit
