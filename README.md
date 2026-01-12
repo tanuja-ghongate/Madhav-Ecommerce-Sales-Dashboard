@@ -43,4 +43,6 @@ The dataset includes:
 - Which payment mode is most preferred by customers?
 - Who are the top contributing customers?
 
-
+Screenshots
+Show what the dashboard lool like.
+Example:
